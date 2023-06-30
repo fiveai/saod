@@ -6,10 +6,10 @@
    
 Commercial licenses available upon request. This type of licence applies to the following scripts:
 
-saod/tools/dataset_converters/prepare_saod_datasets.py\
-saod/tools/analysis_tools/saod_evaluation.py\
-saod/tools/analysis_tools/saod_utils.py\
-saod/tools/analysis_tools/saod_inference.py\
+saod/tools/dataset_converters/prepare_saod_datasets.py
+saod/tools/analysis_tools/saod_evaluation.py
+saod/tools/analysis_tools/saod_utils.py
+saod/tools/analysis_tools/saod_inference.py
 mmdet/core/utils/uncertainty.py
 
 ## License of mmdetection
